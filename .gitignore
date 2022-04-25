@@ -1,3 +1,7 @@
+
+data/geodraw.geojson
+geodraw_tileset/encoding/*/*/*.pbf
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -17,6 +21,7 @@ eggs/
 lib/
 lib64/
 parts/
+
 sdist/
 var/
 wheels/
