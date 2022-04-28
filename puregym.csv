@@ -1,0 +1,429 @@
+,loc,join,price
+34,Walsall,0.0,14.99
+133,Walsall,0.0,14.99
+72,Sheffield North,10.0,19.99
+171,Sheffield North,10.0,19.99
+141,Northampton Central,10.0,21.99
+282,Manchester Debdale,10.0,21.99
+150,Manchester Stretford,0.0,21.99
+51,Manchester Stretford,0.0,21.99
+287,Newcastle St James,10.0,21.99
+42,Northampton Central,10.0,21.99
+184,Salford,10.0,22.99
+199,Derby,10.0,22.99
+85,Salford,10.0,22.99
+80,Livingston,10.0,22.99
+75,Motherwell,10.0,22.99
+36,West Bromwich,0.0,22.99
+241,Edinburgh Waterfront,10.0,22.99
+179,Livingston,10.0,22.99
+174,Motherwell,10.0,22.99
+170,Denton,0.0,22.99
+71,Denton,0.0,22.99
+135,West Bromwich,0.0,22.99
+286,Birmingham Beaufort Park,10.0,22.99
+125,Gateshead,10.0,23.99
+121,East Kilbride,10.0,23.99
+44,Grimsby,10.0,23.99
+55,Preston,10.0,23.99
+119,Bournemouth the Triangle,10.0,23.99
+239,Oldham,10.0,23.99
+194,Liverpool Central,10.0,23.99
+280,Runcorn,10.0,23.99
+306,Birmingham Arcadian Centre,10.0,23.99
+266,Sunderland,10.0,23.99
+190,Bradford Idle,10.0,23.99
+69,Bradford Thornbury,10.0,23.99
+295,Worcester,10.0,23.99
+76,Warrington Central,10.0,23.99
+313,Swindon Mannington Retail Park,10.0,23.99
+236,Birmingham Snow Hill Plaza,5.0,23.99
+104,Glasgow Bath Street,10.0,23.99
+5,Glasgow Bath Street,10.0,23.99
+9,Birmingham City Centre,10.0,23.99
+253,Glasgow Hope Street,10.0,23.99
+154,Preston,10.0,23.99
+91,Bradford Idle,10.0,23.99
+352,Gravesend,10.0,23.99
+175,Warrington Central,10.0,23.99
+105,Birmingham West,10.0,23.99
+256,Blackburn The Mall,10.0,23.99
+108,Birmingham City Centre,10.0,23.99
+168,Bradford Thornbury,10.0,23.99
+22,East Kilbride,10.0,23.99
+143,Grimsby,10.0,23.99
+386,Swindon Stratton,10.0,23.99
+26,Gateshead,10.0,23.99
+248,Glasgow Clydebank,10.0,23.99
+95,Liverpool Central,10.0,23.99
+20,Bournemouth the Triangle,10.0,23.99
+6,Birmingham West,10.0,23.99
+237,Dudley Tipton,10.0,24.99
+66,Stoke on Trent East,10.0,24.99
+109,Newport Wales,10.0,24.99
+84,London Wembley,10.0,24.99
+82,Ashton Under Lyne,10.0,24.99
+270,Liverpool Brunswick,10.0,24.99
+213,Newcastle Eldon Garden,10.0,24.99
+320,Widnes,10.0,24.99
+165,Stoke on Trent East,10.0,24.99
+181,Ashton Under Lyne,10.0,24.99
+183,London Wembley,10.0,24.99
+28,Dundee,10.0,24.99
+235,Redditch,10.0,24.99
+10,Newport Wales,10.0,24.99
+414,Crewe Grand Junction Retail Park,15.0,24.99
+127,Dundee,10.0,24.99
+146,Chatham,0.0,24.99
+152,Newcastle Longbenton,10.0,24.99
+321,Telford,10.0,24.99
+212,Brierley Hill,10.0,24.99
+220,Sutton Coldfield,10.0,24.99
+53,Newcastle Longbenton,10.0,24.99
+310,Manchester Bury New Road,10.0,24.99
+304,Bristol Brislington,10.0,24.99
+299,Hull Anlaby,10.0,24.99
+47,Chatham,0.0,24.99
+173,Sheffield Millhouses,10.0,25.99
+153,Plymouth Alexandra Road,10.0,25.99
+100,Wolverhampton Bentley Bridge,10.0,25.99
+115,Leicester Walnut Street,15.0,25.99
+139,Wolverhampton South,10.0,25.99
+252,Leicester St Georges Way,15.0,25.99
+140,Leeds Regent Street,10.0,25.99
+188,Wakefield,10.0,25.99
+189,Aintree,10.0,25.99
+191,Newtownabbey,10.0,25.99
+112,Warrington North,10.0,25.99
+234,Gloucester Retail Park,10.0,25.99
+176,Wrexham,10.0,25.99
+261,West Thurrock,10.0,25.99
+278,Camberley,10.0,25.99
+41,Leeds Regent Street,10.0,25.99
+317,London Lewisham,10.0,25.99
+40,Wolverhampton South,10.0,25.99
+353,Norwich Castle Mall,10.0,25.99
+361,Plymouth Marsh Mills,10.0,25.99
+363,Hemel Hempstead,10.0,25.99
+366,Colchester Retail Park,10.0,25.99
+385,Bromborough,0.0,25.99
+389,Wisbech,10.0,25.99
+395,Ashford Warren Retail Park,10.0,25.99
+16,Leicester Walnut Street,15.0,25.99
+13,Warrington North,10.0,25.99
+410,Milton Keynes Kingston Centre,15.0,25.99
+412,Grantham Discovery Retail Park,15.0,25.99
+418,Peterborough Brotherhood Retail Park,15.0,25.99
+1,Wolverhampton Bentley Bridge,10.0,25.99
+54,Plymouth Alexandra Road,10.0,25.99
+315,Hednesford Cannock,10.0,25.99
+163,Mansfield,10.0,25.99
+64,Mansfield,10.0,25.99
+269,Lisburn Laganbank,10.0,25.99
+65,Harlow,10.0,25.99
+293,Bury,0.0,25.99
+164,Harlow,10.0,25.99
+77,Wrexham,10.0,25.99
+92,Newtownabbey,10.0,25.99
+90,Aintree,10.0,25.99
+74,Sheffield Millhouses,10.0,25.99
+89,Wakefield,10.0,25.99
+274,Bristol Barrow Road,10.0,25.99
+291,London Croydon,10.0,25.99
+388,Waterlooville,10.0,26.99
+273,Newry,10.0,26.99
+392,Stockport North,15.0,26.99
+251,Stafford,10.0,26.99
+405,Torquay Bridge Retail Park,15.0,26.99
+399,Bournemouth Mallard Road Retail Park,15.0,26.99
+409,Yeovil Houndstone Retail Park,15.0,26.99
+172,Coventry Bishop Street,10.0,26.99
+415,Macclesfield Silk Road,15.0,26.99
+255,Colne,10.0,26.99
+421,Bangor Wales,15.0,26.99
+271,Banbury Cross Retail Park,15.0,26.99
+182,Bedford Heights,10.0,26.99
+276,Cardiff Gate,10.0,26.99
+375,Aylesbury,10.0,26.99
+230,York,10.0,26.99
+316,Leeds Hunslet,10.0,26.99
+214,Rochdale,15.0,26.99
+325,Cardiff Bay,10.0,26.99
+206,Southampton Shirley,15.0,26.99
+337,Basildon,10.0,26.99
+202,Tunbridge Wells,10.0,26.99
+201,Derry Londonderry,10.0,26.99
+340,Bletchley,10.0,26.99
+262,Coventry Warwickshire Shopping Park,10.0,26.99
+341,Stevenage,15.0,26.99
+342,Southend Fossetts Park,10.0,26.99
+345,Norwich Aylsham Road,10.0,26.99
+350,Salisbury,10.0,26.99
+297,Birmingham Maypole,10.0,26.99
+387,Norwich Riverside,10.0,26.99
+267,Bangor Northern Ireland,10.0,26.99
+427,Durham Arnison,100.0,26.99
+83,Bedford Heights,10.0,26.99
+60,Glasgow Charing Cross,10.0,26.99
+129,Glasgow Shawlands,10.0,26.99
+132,Nottingham Basford,10.0,26.99
+122,Coventry Skydome,10.0,26.99
+136,Leeds Bramley,10.0,26.99
+137,Milton Keynes Winterhill,10.0,26.99
+21,Cardiff Central,10.0,26.99
+23,Coventry Skydome,10.0,26.99
+138,Leeds Kirkstall Bridge,10.0,26.99
+142,Lincoln,15.0,26.99
+103,Sheffield City Centre South,10.0,26.99
+120,Cardiff Central,10.0,26.99
+50,London Colindale,10.0,26.99
+43,Lincoln,15.0,26.99
+101,Leeds City Centre South,10.0,26.99
+38,Milton Keynes Winterhill,10.0,26.99
+33,Nottingham Basford,10.0,26.99
+159,Glasgow Charing Cross,10.0,26.99
+2,Leeds City Centre South,10.0,26.99
+39,Leeds Kirkstall Bridge,10.0,26.99
+30,Glasgow Shawlands,10.0,26.99
+37,Leeds Bramley,10.0,26.99
+155,Leeds City Centre North,10.0,26.99
+4,Sheffield City Centre South,10.0,26.99
+149,London Colindale,10.0,26.99
+73,Coventry Bishop Street,10.0,26.99
+56,Leeds City Centre North,10.0,26.99
+46,Stockport South,15.0,27.99
+224,Burnham,10.0,27.99
+35,Edinburgh West,10.0,27.99
+323,Corby,10.0,27.99
+344,Hereford,10.0,27.99
+318,Altrincham,10.0,27.99
+161,Manchester Moston,15.0,27.99
+312,Fareham,10.0,27.99
+277,Portsmouth North Harbour,15.0,27.99
+93,Nottingham Beeston,15.0,27.99
+79,Belfast Boucher Road,10.0,27.99
+281,Canterbury Sturry Road,15.0,27.99
+97,Poole,15.0,27.99
+98,Cambridge Leisure Park,10.0,27.99
+260,Sutton Times Square,10.0,27.99
+259,Ipswich Buttermarket,10.0,27.99
+290,Aberdeen Wellington Circle,10.0,27.99
+68,Aberdeen Kittybrewster,10.0,27.99
+106,Belfast St Anne's Square,10.0,27.99
+107,Southampton Bitterne,15.0,27.99
+62,Manchester Moston,15.0,27.99
+301,Aberdeen Rubislaw,10.0,27.99
+302,Cambridge Grafton Centre,10.0,27.99
+57,Reading Basingstoke Road,10.0,27.99
+110,Aberdeen Shiprow,10.0,27.99
+275,Nuneaton,15.0,27.99
+200,Stirling,10.0,27.99
+354,Northampton Weston Favell,15.0,27.99
+401,Maidstone The Mall,15.0,27.99
+196,Poole,15.0,27.99
+145,Stockport South,15.0,27.99
+197,Cambridge Leisure Park,10.0,27.99
+11,Aberdeen Shiprow,10.0,27.99
+8,Southampton Bitterne,15.0,27.99
+178,Belfast Boucher Road,10.0,27.99
+7,Belfast St Anne's Square,10.0,27.99
+134,Edinburgh West,10.0,27.99
+24,Glasgow Robroyston,10.0,27.99
+192,Nottingham Beeston,15.0,27.99
+126,Halifax,15.0,27.99
+357,Weston-super-Mare,15.0,27.99
+123,Glasgow Robroyston,10.0,27.99
+378,Evesham,10.0,27.99
+156,Reading Basingstoke Road,10.0,27.99
+362,Andover,15.0,27.99
+167,Aberdeen Kittybrewster,10.0,27.99
+209,Luton and Dunstable,15.0,27.99
+27,Halifax,15.0,27.99
+211,London Edgware,15.0,27.99
+288,Dunfermline,15.0,28.99
+292,Glasgow Silverburn,10.0,28.99
+407,Inverness Inshes Retail Park,15.0,28.99
+263,Manchester Eccles,10.0,28.99
+67,Borehamwood,15.0,28.99
+166,Borehamwood,15.0,28.99
+356,Bromsgrove Retail Park,15.0,28.99
+32,Portsmouth Commercial Road,15.0,28.99
+131,Portsmouth Commercial Road,15.0,28.99
+219,Northwich,15.0,28.99
+240,Paisley,15.0,28.99
+116,Stoke on Trent North,10.0,28.99
+391,Canterbury Riverside,15.0,28.99
+17,Stoke on Trent North,10.0,28.99
+319,Belfast Adelaide Street,10.0,28.99
+396,Aldershot Westgate Retail Park,15.0,29.99
+424,Trowbridge,15.0,29.99
+279,Chester,15.0,29.99
+31,Harrogate,10.0,29.99
+417,Chippenham,15.0,29.99
+416,Cheshunt Brookfield Shopping Park,15.0,29.99
+78,Bristol Union Gate,10.0,29.99
+348,Folkestone,15.0,29.99
+70,Manchester Exchange Quay,10.0,29.99
+413,Newbury,15.0,29.99
+393,Reading Calcot,10.0,29.99
+52,Bristol Harbourside,10.0,29.99
+314,Chelmsford Meadows,15.0,29.99
+394,Gloucester Quedgeley,15.0,29.99
+59,London Ilford,10.0,29.99
+398,Bracknell,15.0,29.99
+376,St Ives Cambridgeshire,100.0,29.99
+303,Exeter Fore Street,0.0,29.99
+0,Manchester Spinningfields,15.0,29.99
+99,Manchester Spinningfields,15.0,29.99
+258,Manchester Market Street,10.0,29.99
+130,Harrogate,10.0,29.99
+195,Reading Caversham Road,15.0,29.99
+96,Reading Caversham Road,15.0,29.99
+243,Southampton Central,15.0,29.99
+151,Bristol Harbourside,10.0,29.99
+158,London Ilford,10.0,29.99
+169,Manchester Exchange Quay,10.0,29.99
+177,Bristol Union Gate,10.0,29.99
+324,London Beckton,15.0,30.99
+338,Nottingham Castle Marina,15.0,30.99
+339,Lichfield,10.0,30.99
+229,Oxford Central,15.0,30.99
+226,London Southgate,15.0,30.99
+218,London Sydenham,10.0,30.99
+358,Barnstaple,15.0,30.99
+360,Exeter Bishops Court,15.0,30.99
+369,London Kidbrooke Village,15.0,30.99
+423,Northallerton,100.0,30.99
+114,Edinburgh Ocean Terminal,15.0,30.99
+370,Haverhill,15.0,30.99
+186,Billericay,15.0,30.99
+15,Edinburgh Ocean Terminal,15.0,30.99
+359,Bristol Abbey Wood Retail Park,20.0,30.99
+87,Billericay,15.0,30.99
+63,Staines,15.0,30.99
+265,London Bromley,15.0,30.99
+254,Oxford Templars Shopping Park,15.0,30.99
+247,Purley,15.0,30.99
+289,Wirral Bidston Moss,0.0,30.99
+162,Staines,15.0,30.99
+296,Leeds Thorpe Park,10.0,30.99
+284,London Park Royal,15.0,30.99
+349,Saffron Walden,10.0,31.99
+223,Loughborough,15.0,31.99
+365,Maldon Blackwater Retail Park,15.0,31.99
+382,Bicester,15.0,31.99
+330,Hitchin,20.0,31.99
+19,Manchester Urban Exchange,15.0,31.99
+403,Cirencester Retail Park,15.0,31.99
+404,Stowmarket,15.0,31.99
+408,Edinburgh Craigleith Retail Park,10.0,31.99
+355,Didcot,15.0,31.99
+180,Brighton Central,10.0,31.99
+268,London Acton,15.0,31.99
+422,Manchester Tyldesley,100.0,31.99
+420,Portishead,15.0,31.99
+81,Brighton Central,10.0,31.99
+118,Manchester Urban Exchange,15.0,31.99
+222,Northolt,15.0,32.99
+305,Buckingham,10.0,32.99
+257,London Camberwell New Road,15.0,32.99
+124,London Greenwich,15.0,32.99
+300,Brighton London Road,10.0,32.99
+368,St Albans,15.0,32.99
+58,Epsom,15.0,32.99
+373,Glossop,15.0,32.99
+207,London Lambeth,15.0,32.99
+351,London Camberwell Southampton Way,15.0,32.99
+402,Witney,15.0,32.99
+25,London Greenwich,15.0,32.99
+49,London Orpington Central,15.0,32.99
+157,Epsom,15.0,32.99
+148,London Orpington Central,15.0,32.99
+48,London Greenwich Movement,15.0,32.99
+322,Bridgwater,15.0,32.99
+147,London Greenwich Movement,15.0,32.99
+272,Edinburgh Exchange Crescent,15.0,33.99
+384,Kirkcaldy,15.0,33.99
+215,New Barnet,15.0,33.99
+308,Birmingham Longbridge,20.0,33.99
+311,East Grinstead,15.0,33.99
+14,London Wandsworth,15.0,34.99
+372,Rayleigh,15.0,34.99
+425,London Swiss Cottage,15.0,34.99
+203,Woking,20.0,34.99
+381,Crayford,20.0,34.99
+364,Leamington Spa,20.0,34.99
+113,London Wandsworth,15.0,34.99
+298,Edinburgh Fort Kinnaird,20.0,34.99
+294,Tonbridge,25.0,34.99
+374,Romford,20.0,35.99
+61,London Putney,20.0,35.99
+187,London Finsbury Park,15.0,35.99
+111,London North Finchley,15.0,35.99
+367,Burgess Hill,25.0,35.99
+332,London Earls Court,15.0,35.99
+3,Edinburgh Quartermile,20.0,35.99
+88,London Finsbury Park,15.0,35.99
+102,Edinburgh Quartermile,20.0,35.99
+347,London Hayes,20.0,35.99
+160,London Putney,20.0,35.99
+210,London Holloway Road,15.0,35.99
+12,London North Finchley,15.0,35.99
+264,London Charlton,15.0,36.99
+232,London Finchley,20.0,37.99
+225,London Highgate,20.0,38.99
+144,London Bermondsey,15.0,39.99
+45,London Bermondsey,15.0,39.99
+216,London Muswell Hill,20.0,39.99
+283,London Limehouse,20.0,40.99
+18,London Oval,20.0,40.99
+193,London Hammersmith Palais,15.0,40.99
+117,London Oval,20.0,40.99
+94,London Hammersmith Palais,15.0,40.99
+228,London Bayswater,20.0,40.99
+307,London East India Dock,20.0,40.99
+185,London Enfield,20.0,41.99
+29,Walton-on-Thames,20.0,41.99
+128,Walton-on-Thames,20.0,41.99
+86,London Enfield,20.0,41.99
+377,London Angel,15.0,41.99
+400,London Twickenham,15.0,42.99
+233,London Marylebone,15.0,43.99
+331,London Camden,20.0,43.99
+329,London Whitechapel,20.0,43.99
+327,London Borough,20.0,43.99
+406,London Hoxton,15.0,44.99
+390,London Monument,20.0,44.99
+246,London Shoreditch High Street,20.0,44.99
+346,London East Sheen,25.0,44.99
+380,London Bank,20.0,44.99
+371,Bath Spring Wharf,15.0,44.99
+309,London Tottenham Court Road,20.0,45.99
+204,London Great Portland Street,20.0,45.99
+333,London Waterloo,15.0,45.99
+227,London St Pauls,25.0,45.99
+335,London Farringdon,20.0,45.99
+205,London Holborn,25.0,45.99
+217,London Piccadilly,25.0,46.99
+285,Exeter South,100.0,46.99
+326,London Bow Wharf,25.0,46.99
+208,London Canary Wharf,20.0,46.99
+328,London Tower Hill,20.0,46.99
+419,London Stratford,100.0,47.99
+343,London Fulham,15.0,47.99
+198,Pure Gym HQ,100.0,47.99
+383,London Leytonstone,30.0,47.99
+238,London Wall,30.0,49.99
+379,Southampton Portswood Road,100.0,49.99
+244,London Aldgate,30.0,49.99
+334,London Covent Garden,15.0,54.99
+336,London Clapham,25.0,56.99
+249,Brooklands,100.0,57.99
+242,Waldorf,100.0,57.99
+231,London Orpington North,100.0,57.99
+250,Henley,100.0,57.99
+426,Broadstairs Westwood Gateway Retail Park,100.0,57.99
+397,Maidenhead Retail Park,100.0,57.99
+245,London Victoria,30.0,57.99
+411,Solihull Sears Retail Park,15.0,57.99
+221,London South Kensington,30.0,59.99

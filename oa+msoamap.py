@@ -9,7 +9,7 @@ import warnings
 from shapely.errors import ShapelyDeprecationWarning
 warnings.filterwarnings("ignore", category=ShapelyDeprecationWarning) 
 
-generate=True
+generate = False
 presimplify = False
 
 if generate:
@@ -20,15 +20,18 @@ if generate:
     lsoa = gpd.read_file('data/lsoa.geojson')
     oa = gpd.read_file('data/oa.geojson')
     
-    msoa['k'] = 2
-    lsoa['k'] = 1
-    oa['k'] = 0
+    # msoa['k'] = 2
+    # lsoa['k'] = 1
+    # oa['k'] = 0
 
     msoa['id'] = msoa.msoa11cd
     lsoa['id'] = lsoa.lsoa11cd
     oa['id'] = oa.OA11CD
 
-    oa.append(lsoa)['id k geometry'.split()].append(msoa)['id k geometry'.split()].to_file('data/centroids.geojson',driver='GeoJSON')
+    # oa.append(lsoa)['id k geometry'.split()].append(msoa)['id k geometry'.split()].to_file('data/centroids.geojson',driver='GeoJSON')
+
+    oa['id geometry'.split()].to_file('data/centroids.geojson',driver='GeoJSON')
+
 
     areas.index.name='oa'
     areas.reset_index(inplace=True)
@@ -54,31 +57,31 @@ if generate:
     llook.to_file('data/elsoa.geojson',driver='GeoJSON')
 
 
-import sys 
-sys.exit()
+# import sys 
+# sys.exit()
 
 
 
 import os 
-
-
-
-args = '--reverse --detect-shared-borders --reorder --attribution="ONS Visual 2022 Dan Ellis"  -z15 -Z9 --progress-interval=5 --no-tile-size-limit'
-
+print('go go go ')
 tileset = "./geodraw_tileset"
+os.system(f'rm -rf ./{tileset}/')
+
+
+args = '--reverse --detect-shared-borders --no-tiny-polygon-reduction --reorder --attribution="ONS Visual 2022 Dan Ellis" --no-feature-limit --no-tile-size-limit -z15 -Z9 --progress-interval=5 --no-tile-size-limit -r1'
+
+
 # Error {message: 'Unimplemented type: 3'} : use --no-tile-compression
-cmd = f'tippecanoe {args} --no-tile-compression --output-to-directory="{tileset}" --read-parallel --force data/geodraw.geojson' #  centroids.geojson
+cmd = f'tippecanoe {args} --no-tile-compression --output-to-directory="{tileset}" --force data/geodraw.geojson data/centroids.geojson'
 # --exclude-all --read-parallel
 
-print('go go go ')
-os.system(f'rm -rf ./{tileset}/')
 
 os.system(cmd)
 
 
 #  sepearte tileset for encoding
 print('centroid tileset')
-cmd = f'tippecanoe --attribution="ONS Visual 2022 Dan Ellis"  -z13 -Z7 --progress-interval=5 --no-tile-size-limit  --output-to-directory="{tileset}/encoding" --force data/emsoa.geojson data/elsoa.geojson' # 
+cmd = f'tippecanoe --attribution="ONS Visual 2022 Dan Ellis"  -z13 -Z7 --progress-interval=5 --no-tile-compression --no-tile-size-limit -r1 --output-to-directory="{tileset}/encoding" --force data/emsoa.geojson data/elsoa.geojson' # 
 os.system(cmd)
 
 
@@ -88,7 +91,7 @@ os.system(cmd)
 import json
 
 data = json.loads(open(tileset+'/metadata.json', 'r').read())
-info =json.loads(data['json'])
+info = json.loads(data['json'])
 print('----------------')
 for layer in info['vector_layers']:
     print(layer)
@@ -102,7 +105,7 @@ info =json.loads(data['json'])
 print('----------------')
 for layer in info['vector_layers']:
     print(layer)
-j
+
 
 
 
